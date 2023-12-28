@@ -23,6 +23,7 @@ A simple React-based notes app that allows users to save, search, and delete not
    cd react-notes-app
    npm install
    npm start
+   Open your browser and visit http://localhost:3000 to view the app.
 
 
 
